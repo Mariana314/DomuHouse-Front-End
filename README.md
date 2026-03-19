@@ -1,12 +1,93 @@
-# React + Vite
+# DomuHouse Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
 
-Currently, two official plugins are available:
+DomuHouse is a real estate web application that allows users to browse, publish, and manage properties. The frontend provides an interactive and responsive user interface with role-based views for clients, agents, and administrators.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was developed collaboratively by a team of 5 developers.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+
+https://domu-house.vercel.app/
+
+Note: The backend is deployed but may require activation due to hosting limitations.
+
+---
+
+## Features
+
+* Responsive user interface
+* Property listing and detailed views
+* Advanced property search and filters
+* Role-based dashboards (Client, Agent, Admin)
+* Integration with backend API
+
+---
+
+## Tech Stack
+
+* React
+* JavaScript
+* CSS
+
+---
+
+## Backend Repository
+
+https://github.com/Mariana314/DomuHouse-BackEnd
+
+---
+
+## Project Status
+
+Completed
+
+---
+
+## Español
+
+## Sobre el Proyecto
+
+DomuHouse es una aplicación web inmobiliaria que permite a los usuarios explorar, publicar y gestionar propiedades. El frontend ofrece una interfaz interactiva y responsiva con vistas según el rol del usuario (cliente, agente y administrador).
+
+Este proyecto fue desarrollado de manera colaborativa por un equipo de 5 desarrolladores.
+
+---
+
+## Demo
+
+https://domu-house.vercel.app/
+
+Nota: El backend está desplegado, pero puede requerir activación debido a limitaciones del hosting.
+
+---
+
+## Funcionalidades
+
+* Interfaz responsiva
+* Listado de propiedades y vistas detalladas
+* Búsqueda avanzada con filtros
+* Paneles por rol (Cliente, Agente, Administrador)
+* Integración con API backend
+
+---
+
+## Tecnologías
+
+* React
+* JavaScript
+* CSS
+
+---
+
+## Repositorio Backend
+
+https://github.com/Mariana314/DomuHouse-BackEnd
+
+---
+
+## Estado del Proyecto
+
+Finalizado
